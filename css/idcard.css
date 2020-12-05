@@ -1,0 +1,122 @@
+.table
+{
+line-height:0px!important;
+letter-spacing:0px!important;
+
+margin-top:0px;
+margin-bottom:0px;
+}
+
+.col-sm-4 {
+    width: 33.3333%;
+}
+th,td
+{
+line-height:1px;
+}
+th
+{
+color:#0088cc;
+}
+section
+{
+line-height:1px!important;
+letter-spacing:1px!important;
+}
+.invoice {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #f4f4f4;
+    margin: 0px!important;
+    padding: 0px!important;
+    position: relative;
+}
+ .mas {
+    white-space: pre-wrap!important;
+}
+
+  .nav-pills > .active1  {
+   border-left: 2px solid #3c8dbc;
+   padding:2px;
+  }
+	.btn {
+    padding: 9px 15px;
+	}
+	.nav>li>a
+	{
+    padding: 9px 15px;
+	} 
+	input[type=date]
+	{
+	line-height: 18px;
+    padding: 6px 0px 8px 0px;
+	}
+	.control{
+	display: block;
+    width:100%;
+    height: 14px;
+    border: 0px solid #ccc;
+    border-bottom:0px solid #ccc;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.0);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.0);
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    border-top: 0px solid #f4f4f4;
+	vertical-align: middle;
+	padding:0px;
+	height:14px;
+	line-height: 0;
+	font-size: 8px;
+}
+
+.table>tbody+tbody {
+    border-top: 0px solid #ddd;
+}
+.box-body.table-responsive.no-padding {
+    border: 1px solid #ccc;
+	border-radius:5px;
+    padding: 10px!important;
+	height: 250px;
+}
+input{
+	border:none;
+}
+.mas {
+    white-space: pre-wrap;
+}
+.table{
+	margin-bottom:0px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+	height:14px;
+	font-size:10px;
+}
+.idcard2 img{
+	width:100%;
+}
+.idcard4 img{
+	width:100%;
+}
+td.colon:after {
+    content: ':';
+    float: right;
+}
+.box{
+	box-shadow:0 0 0 0;
+}
+.right
+{
+	display: none;
+}
+.right1{
+    float: right;
+    margin-top: -42px;
+    width: 7%;
+}
+.right1 a{
+	float:left;
+	padding: 18px;
+    margin-top: 1px;
+	background: #F39C12;
+	color: #fff;
+	border-radius: 5px;
+}

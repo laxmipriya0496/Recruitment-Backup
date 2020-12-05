@@ -1,0 +1,45 @@
+.w_20{
+    float: left;
+    width: 20%;
+	//margin-bottom:20px;
+}
+.w_25{
+    float: left;
+    width: 25%;
+}
+.w_55{
+    float: left;
+    width: 55%;
+}
+.w_center.w_55 .progress {
+    margin-bottom: 5px;
+}
+.progress_title{
+	margin-bottom: 10px;
+	color: blue;
+	font-weight: bold;
+}
+.progress_title .right{
+	margin: 0px 20px;
+}
+.right a label{cursor:pointer;}
+.right  a:focus,.right  a:hover,.right  a{color:blue;}
+.progress_title .left {
+    //float: left;
+    width: 76%;
+    margin-left: 15px;
+    /* padding-left: 0px; */
+    //text-align: left;
+}
+.row .left1{
+	margin-left: 18px;
+	   // height: 15px;
+}
+.progress.progress_sm{
+	height:15px;
+	margin-top: 5px;
+    margin-bottom: 10px;
+}
+.col-xs-2.more_info{
+	padding-left:0px;
+}
